@@ -1,0 +1,14 @@
+/Users/tryhardov/projects/с#/ConsoleApp14/obj/Debug/net10.0/ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tryhardov/projects/с#/ConsoleApp14/obj/Debug/net10.0/ConsoleApp14.AssemblyInfoInputs.cache
+/Users/tryhardov/projects/с#/ConsoleApp14/obj/Debug/net10.0/ConsoleApp14.AssemblyInfo.cs
+/Users/tryhardov/projects/с#/ConsoleApp14/obj/Debug/net10.0/ConsoleApp14.csproj.CoreCompileInputs.cache
+/Users/tryhardov/projects/с#/ConsoleApp14/bin/Debug/net10.0/ConsoleApp14
+/Users/tryhardov/projects/с#/ConsoleApp14/bin/Debug/net10.0/ConsoleApp14.deps.json
+/Users/tryhardov/projects/с#/ConsoleApp14/bin/Debug/net10.0/ConsoleApp14.runtimeconfig.json
+/Users/tryhardov/projects/с#/ConsoleApp14/bin/Debug/net10.0/ConsoleApp14.dll
+/Users/tryhardov/projects/с#/ConsoleApp14/bin/Debug/net10.0/ConsoleApp14.pdb
+/Users/tryhardov/projects/с#/ConsoleApp14/obj/Debug/net10.0/ConsoleApp14.dll
+/Users/tryhardov/projects/с#/ConsoleApp14/obj/Debug/net10.0/refint/ConsoleApp14.dll
+/Users/tryhardov/projects/с#/ConsoleApp14/obj/Debug/net10.0/ConsoleApp14.pdb
+/Users/tryhardov/projects/с#/ConsoleApp14/obj/Debug/net10.0/ConsoleApp14.genruntimeconfig.cache
+/Users/tryhardov/projects/с#/ConsoleApp14/obj/Debug/net10.0/ref/ConsoleApp14.dll
