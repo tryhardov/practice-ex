@@ -1,0 +1,14 @@
+/Users/tryhardov/projects/с#/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5
+/Users/tryhardov/projects/с#/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.deps.json
+/Users/tryhardov/projects/с#/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.runtimeconfig.json
+/Users/tryhardov/projects/с#/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.dll
+/Users/tryhardov/projects/с#/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.pdb
+/Users/tryhardov/projects/с#/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tryhardov/projects/с#/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.AssemblyInfoInputs.cache
+/Users/tryhardov/projects/с#/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.AssemblyInfo.cs
+/Users/tryhardov/projects/с#/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.csproj.CoreCompileInputs.cache
+/Users/tryhardov/projects/с#/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.dll
+/Users/tryhardov/projects/с#/ConsoleApp5/obj/Debug/net10.0/refint/ConsoleApp5.dll
+/Users/tryhardov/projects/с#/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.pdb
+/Users/tryhardov/projects/с#/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.genruntimeconfig.cache
+/Users/tryhardov/projects/с#/ConsoleApp5/obj/Debug/net10.0/ref/ConsoleApp5.dll

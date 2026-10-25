@@ -1,0 +1,14 @@
+/Users/tryhardov/projects/с#/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6
+/Users/tryhardov/projects/с#/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6.deps.json
+/Users/tryhardov/projects/с#/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6.runtimeconfig.json
+/Users/tryhardov/projects/с#/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6.dll
+/Users/tryhardov/projects/с#/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6.pdb
+/Users/tryhardov/projects/с#/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tryhardov/projects/с#/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.AssemblyInfoInputs.cache
+/Users/tryhardov/projects/с#/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.AssemblyInfo.cs
+/Users/tryhardov/projects/с#/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.csproj.CoreCompileInputs.cache
+/Users/tryhardov/projects/с#/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.dll
+/Users/tryhardov/projects/с#/ConsoleApp6/obj/Debug/net10.0/refint/ConsoleApp6.dll
+/Users/tryhardov/projects/с#/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.pdb
+/Users/tryhardov/projects/с#/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.genruntimeconfig.cache
+/Users/tryhardov/projects/с#/ConsoleApp6/obj/Debug/net10.0/ref/ConsoleApp6.dll
